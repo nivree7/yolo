@@ -1,0 +1,5 @@
+Run this to install necessary packages
+
+pip install torch torchvision opencv-python tqdm prefetch-generator thop tensorboardX pyyaml scipy matplotlib yacs
+
+If missing package error occurs just download what is missing or put entire error message in Chat and it will tell what is specifically needed to run.
